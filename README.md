@@ -6,7 +6,7 @@
   </em>
  </p>
 <hr>
-<img align="right" alt="Coder GIF" height=400 width=450 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coder GIF" height=450 width=500 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 
