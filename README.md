@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning : **Data science**
 
-- 💬 Ask me about : **C ,C++ ,Java and Python**
+- 💬 Ask me about : **Python,Flask,Django and AWS**
 
-- 📫 How to reach me : **avishkarpansare88@gmail.com**
+- 📫 How to reach me: **avishkarpansare88@gmail.com**
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 
 
