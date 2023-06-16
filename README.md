@@ -26,11 +26,5 @@
 
 
 
-<p align="left">
-<a href = "https://github.com/avishkarpansare">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=avishkarpansare&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-  <a href = "https://github.com/avishkarpansare">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=avishkarpansare&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
+
  </p>
