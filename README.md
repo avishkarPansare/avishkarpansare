@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning : **Data science**
+- 🌱 I’m currently learning : **AWS and React**
 
 - 💬 Ask me about : **Python,Flask,Django and AWS**
 
